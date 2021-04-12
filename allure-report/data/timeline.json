@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "CYSO-010777",
+    "children" : [ {
+      "name" : "37831@CYSO-010777.main(1)",
+      "children" : [ {
+        "name" : "addAndRemoveProductsFirstApproach",
+        "uid" : "69abae3c91eba044",
+        "parentUid" : "445ac58ba23267421186841385bc1e18",
+        "status" : "broken",
+        "time" : {
+          "start" : 1618260903713,
+          "stop" : 1618260979266,
+          "duration" : 75553
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "de" ]
+      }, {
+        "name" : "addAndRemoveProductsFirstApproach",
+        "uid" : "d09998d7be21c129",
+        "parentUid" : "445ac58ba23267421186841385bc1e18",
+        "status" : "broken",
+        "time" : {
+          "start" : 1618260981471,
+          "stop" : 1618261054147,
+          "duration" : 72676
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "at" ]
+      } ],
+      "uid" : "445ac58ba23267421186841385bc1e18"
+    } ],
+    "uid" : "cc5b09a961126f425d9d34033545094b"
+  } ],
+  "name" : "timeline"
+}

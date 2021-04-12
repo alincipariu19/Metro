@@ -1,0 +1,21 @@
+[ {
+  "uid" : "d09998d7be21c129",
+  "name" : "addAndRemoveProductsFirstApproach",
+  "time" : {
+    "start" : 1618260981471,
+    "stop" : 1618261054147,
+    "duration" : 72676
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "69abae3c91eba044",
+  "name" : "addAndRemoveProductsFirstApproach",
+  "time" : {
+    "start" : 1618260903713,
+    "stop" : 1618260979266,
+    "duration" : 75553
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

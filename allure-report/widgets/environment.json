@@ -1,0 +1,13 @@
+[ {
+  "values" : [ "PROD" ],
+  "name" : "Environment"
+}, {
+  "values" : [ "CHROME" ],
+  "name" : "BrowserName"
+}, {
+  "values" : [ "89.0.4389.114" ],
+  "name" : "BrowserVersion"
+}, {
+  "values" : [ "MAC" ],
+  "name" : "Platform"
+} ]
